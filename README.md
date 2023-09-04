@@ -1,5 +1,8 @@
 # 💫 About Me:
-Currently working on memory optimization, buffer overflows, <br>and contributing to HaribOS
+🔭 To truly understand whats happening inside the machine.
+🧑🏽‍💻 Working on bufferoverflows, hardware attacks, and 
+learn memory optimization.
+🤝 Open to contribute to projects related to C/C++
 
 
 ## 🌐 Socials:
