@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 To truly understand whats happening inside the machine.
+🔭 To truly understand whats happening inside a machine.
 🧑🏽‍💻 Working on bufferoverflows, hardware attacks, and 
 learn memory optimization.
 🤝 Open to contribute to projects related to C/C++
